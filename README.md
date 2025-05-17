@@ -1,16 +1,32 @@
-## Hi there 👋
+🌟 Hey there, I'm so glad you're here!
 
-<!--
-**khan123-code/khan123-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Mohamed Atiur, an aspiring Data Analyst who loves working with numbers, data, and visual tools. I enjoy learning new skills, solving problems with Python, and turning raw data into useful insights.
 
-Here are some ideas to get you started:
+Here, you’ll find:
+- 🔧 Projects I’m building and learning from  
+- 📚 Things I’m practicing like data cleaning, visualization, and reporting  
+- 📈 Steps I’m taking on my journey to become a great analyst  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you’re here to get inspired, learn, or just browse — welcome aboard! 👋
+
+---
+
+📬 **Let’s Connect**
+
+- 📧 Email: atiurrazakhan@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/mohammad-atiur-rahman-khan-33ab5b2b7 
+- 📸 Instagram: https://www.instagram.com/atiur_raza_khan_/?hl=en
+
+---
+
+🧰 **Tech Stack**
+
+- Python, Pandas, NumPy  
+- Matplotlib, Seaborn
+- HTML, CSS, Java Script  
+- Power BI, Tableau, Excel  
+- MY SQL
+
+---
+
+Let’s connect, grow, and learn together — one project at a time! 🚀
