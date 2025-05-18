@@ -5,7 +5,7 @@
 ---
 
 ### 💫 About Me
-🎓 B.A. Graduate | 📊 Data Analytics Enthusiast | I'm an aspiring Data Analyst passionate about turning data into clear insights using Python, Excel, and visualization tools like Power BI.  
+📊 Data Analytics Enthusiast | I'm an aspiring Data Analyst passionate about turning data into clear insights using Python, Excel, and visualization tools like Power BI.  
 🌱 Currently learning **Machine Learning** and **AI**  
 🚀 Building data projects using **Python, SQL, Power BI, Tableau**  
 🎯 Goal: To become a skilled **Data Scientist** and solve real-world problems with data
