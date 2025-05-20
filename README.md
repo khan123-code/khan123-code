@@ -1,4 +1,6 @@
-<!-- Profile Header -->
+
+    
+
 <h1 align="center">Hi there, I'm Mohammad Atiur 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Coding Data into Insights</h3>
 
@@ -38,7 +40,7 @@
 </a>
 
 </p>
-
+ 
 
 
 
