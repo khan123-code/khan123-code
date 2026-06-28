@@ -2,15 +2,22 @@
     
 
 <h1 align="center">Hi there, I'm Mohammad Atiur 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Coding Data into Insights</h3>
+<h3 align="center"> AI/ML Enthusiast | Coding Data into Insights</h3>
 
 ---
 
 ### 💫 About Me
-📊 Data Analytics Enthusiast | I'm an aspiring Data Analyst passionate about turning data into clear insights using Python, Excel, and visualization tools like Power BI.  
-🌱 Currently learning **Machine Learning** and **AI**  
-🚀 Building data projects using **Python, SQL, Power BI, Tableau**  
-🎯 Goal: To become a skilled **Data Scientist** and solve real-world problems with data
+<p align="center">
+  🤖 <strong>AI/ML Enthusiast</strong> &nbsp;|&nbsp;
+  🐍 <strong>Python</strong> &nbsp;|&nbsp;
+  🗄️ <strong>SQL</strong> &nbsp;|&nbsp;
+  📊 <strong>Data Analysis</strong>
+</p>
+
+<p align="center">
+  💡 AI/ML enthusiast with hands-on experience in <strong>Python, SQL, Data Analysis, and real-world projects</strong>. Skilled at transforming raw data into actionable insights through analytics, visualization, and problem-solving, with a growing focus on <strong>Machine Learning</strong> and intelligent systems.
+</p>
+
 
 ---
 
