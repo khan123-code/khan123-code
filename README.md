@@ -1,55 +1,76 @@
+<div align="center">
 
-    
+# Mohammad Atiur Rahman Khan
 
-<h1 align="center">Hi there, I'm Mohammad Atiur 👋</h1>
-<h3 align="center"> AI/ML Enthusiast | Coding Data into Insights</h3>
+**AI/ML Enthusiast · Data Analyst · Python Developer**
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atiurrazakhan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-atiur-rahman-khan-33ab5b2b7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/atiur_raza_khan)
 
-### 💫 About Me
-<p align="center">
-  🤖 <strong>AI/ML Enthusiast</strong> &nbsp;|&nbsp;
-  🐍 <strong>Python</strong> &nbsp;|&nbsp;
-  🗄️ <strong>SQL</strong> &nbsp;|&nbsp;
-  📊 <strong>Data Analysis</strong>
-</p>
-
-<p align="center">
-  💡 AI/ML enthusiast with hands-on experience in <strong>Python, SQL, Data Analysis, and real-world projects</strong>. Skilled at transforming raw data into actionable insights through analytics, visualization, and problem-solving, with a growing focus on <strong>Machine Learning</strong> and intelligent systems.
-</p>
-
+</div>
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+## About Me
 
-</p>
- 
- 
-📫 Connect with Me
-<p align="left">
-  <a href="atiurrazakhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/mohammad-atiur-rahman-khan-33ab5b2b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/atiur_raza_khan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
+I'm an AI/ML enthusiast with hands-on experience turning raw data into actionable insights. I work across the full analytics stack — from SQL queries and Python scripts to dashboards in Power BI and Tableau — with a growing focus on machine learning and intelligent systems.
 
-</p>
- 
+- 🔍 Passionate about finding patterns in messy, real-world data
+- 📈 Building skills at the intersection of analytics and ML
+- 🛠️ Comfortable from data wrangling all the way to visualization
 
+---
 
+## Tech Stack
 
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/pgAdmin4-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white)
+
+**BI & Tools**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Mohammad Atiur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always open to collaborating on data projects, discussing AI/ML ideas, or just talking shop. Feel free to reach out!
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atiurrazakhan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-atiur-rahman-khan-33ab5b2b7)
+[![Telegram](https://img.shields.io/badge/Chat%20on%20Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/atiur_raza_khan)
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by — feel free to explore my repos!</sub>
+</div>
