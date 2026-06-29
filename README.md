@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohammad Atiur 👋</h1>
 <h3 align="center"> AI/ML Enthusiast | Coding Data into Insights</h3>
 ---
-### 💫 About Me
+💫 About Me
 <p align="center">
   🤖 <strong>AI/ML Enthusiast</strong> &nbsp;|&nbsp;
   🐍 <strong>Python</strong> &nbsp;|&nbsp;
